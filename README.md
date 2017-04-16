@@ -5,3 +5,11 @@ Questions:
 1. whether should we solve it using end-to-end driving or other techniques?
 2. where are the resources for sending command to GTA V using deep learning in Windows?
 3. how to collect datasets in GTA V?
+
+
+Online resources:
+1. Deep drive(include source code): http://deepdriving.cs.princeton.edu/
+   simulator: TORCS
+   Deep learning tool: Caffe
+2. "A plugin for GTAV that transforms it into a vision-based self-driving car research environment.": 
+    https://github.com/ai-tor/DeepGTAV
